@@ -3977,24 +3977,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\combeter\\.nuget\\packages\\": {}
+    "C:\\Users\\nguye\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CODE\\CSdotNet\\CSatSchool\\finalExamReves\\BookService\\BookService.csproj",
+      "projectUniqueName": "D:\\Code\\C#\\finalExamReves1\\BookService\\BookService.csproj",
       "projectName": "BookService",
-      "projectPath": "D:\\CODE\\CSdotNet\\CSatSchool\\finalExamReves\\BookService\\BookService.csproj",
-      "packagesPath": "C:\\Users\\combeter\\.nuget\\packages\\",
-      "outputPath": "D:\\CODE\\CSdotNet\\CSatSchool\\finalExamReves\\BookService\\obj\\",
+      "projectPath": "D:\\Code\\C#\\finalExamReves1\\BookService\\BookService.csproj",
+      "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
+      "outputPath": "D:\\Code\\C#\\finalExamReves1\\BookService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\combeter\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -4056,7 +4059,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
