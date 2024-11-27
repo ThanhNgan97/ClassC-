@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "M/Qb1rLyI4whcawm6anjTjFZ80V2nBlNJ+myfTYu8WE=",
+  "Hash": "2HZ3MRVx7kE2nXkNNzxJRKz6mNS7LCzpE5t8dhJwPpQ=",
   "Source": "BookUI",
   "BasePath": "_content/BookUI",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BookUI\\wwwroot",
       "Source": "BookUI",
-      "ContentRoot": "D:\\CODE\\CSdotNet\\CSatSchool\\finalExamReves\\BookUI\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\C#\\finalExamReves1\\BookUI\\wwwroot\\",
       "BasePath": "_content/BookUI",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\CODE\\CSdotNet\\CSatSchool\\finalExamReves\\BookUI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BookUI.styles.css",
+      "Identity": "D:\\Code\\C#\\finalExamReves1\\BookUI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BookUI.styles.css",
       "SourceId": "BookUI",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\CODE\\CSdotNet\\CSatSchool\\finalExamReves\\BookUI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\Code\\C#\\finalExamReves1\\BookUI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BookUI",
       "RelativePath": "BookUI.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\CODE\\CSdotNet\\CSatSchool\\finalExamReves\\BookUI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BookUI.styles.css"
+      "OriginalItemSpec": "D:\\Code\\C#\\finalExamReves1\\BookUI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BookUI.styles.css"
     },
     {
-      "Identity": "D:\\CODE\\CSdotNet\\CSatSchool\\finalExamReves\\BookUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookUI.bundle.scp.css",
+      "Identity": "D:\\Code\\C#\\finalExamReves1\\BookUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookUI.bundle.scp.css",
       "SourceId": "BookUI",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\CODE\\CSdotNet\\CSatSchool\\finalExamReves\\BookUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\Code\\C#\\finalExamReves1\\BookUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BookUI",
       "RelativePath": "BookUI.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\CODE\\CSdotNet\\CSatSchool\\finalExamReves\\BookUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookUI.bundle.scp.css"
+      "OriginalItemSpec": "D:\\Code\\C#\\finalExamReves1\\BookUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookUI.bundle.scp.css"
     },
     {
-      "Identity": "D:\\CODE\\CSdotNet\\CSatSchool\\finalExamReves\\BookUI\\wwwroot\\app.css",
+      "Identity": "D:\\Code\\C#\\finalExamReves1\\BookUI\\wwwroot\\app.css",
       "SourceId": "BookUI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CODE\\CSdotNet\\CSatSchool\\finalExamReves\\BookUI\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\C#\\finalExamReves1\\BookUI\\wwwroot\\",
       "BasePath": "_content/BookUI",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "D:\\CODE\\CSdotNet\\CSatSchool\\finalExamReves\\BookUI\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "D:\\Code\\C#\\finalExamReves1\\BookUI\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "BookUI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CODE\\CSdotNet\\CSatSchool\\finalExamReves\\BookUI\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\C#\\finalExamReves1\\BookUI\\wwwroot\\",
       "BasePath": "_content/BookUI",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\CODE\\CSdotNet\\CSatSchool\\finalExamReves\\BookUI\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "D:\\Code\\C#\\finalExamReves1\\BookUI\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "BookUI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CODE\\CSdotNet\\CSatSchool\\finalExamReves\\BookUI\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\C#\\finalExamReves1\\BookUI\\wwwroot\\",
       "BasePath": "_content/BookUI",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\CODE\\CSdotNet\\CSatSchool\\finalExamReves\\BookUI\\wwwroot\\favicon.png",
+      "Identity": "D:\\Code\\C#\\finalExamReves1\\BookUI\\wwwroot\\favicon.png",
       "SourceId": "BookUI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CODE\\CSdotNet\\CSatSchool\\finalExamReves\\BookUI\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\C#\\finalExamReves1\\BookUI\\wwwroot\\",
       "BasePath": "_content/BookUI",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
